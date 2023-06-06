@@ -1,0 +1,77 @@
+@media (min-width: 700px) and (max-width:1024px){
+
+    .container{
+        width: 40vw;
+    }
+
+    .horas{
+        width: 10vw; height: 25vh;
+        padding-top: 10%;
+        font-size: 50px;
+    }
+
+    .minutos{
+        width: 10vw; height: 25vh;
+        padding-top: 10%;
+        font-size: 50px;
+    }
+
+    .segundos{
+        width: 10vw; height: 25vh;
+        padding-top: 10%;
+        font-size: 50px;
+    }
+}
+
+@media (min-width:450px) and (max-width:700px){
+
+    .container{
+        width: 60vw;
+    }
+
+    .horas{
+        width: 15vw; height: 20vh;
+        padding-top: 10%;
+        font-size: 40px;
+    }
+
+    .minutos{
+        width: 15vw; height: 20vh;
+        padding-top: 10%;
+        font-size: 40px;
+
+    }
+
+    .segundos{
+        width: 15vw; height: 20vh;
+        padding-top: 10%;
+        font-size: 40px;
+    }
+
+}
+
+@media (max-width:450px){
+
+    .container{
+        width: 50vw;
+    }
+
+    .horas{
+        width: 18vw; height: 15vh;
+        padding-top: 15%;
+        font-size: 25px;
+    }
+
+    .minutos{
+        width: 18vw; height: 15vh;
+        padding-top: 15%;
+        font-size: 25px;
+
+    }
+
+    .segundos{
+        width: 18vw; height: 15vh;
+        padding-top: 15%;
+        font-size: 25px;
+    }
+}
